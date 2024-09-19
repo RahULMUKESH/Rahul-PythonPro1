@@ -1,0 +1,1 @@
+This is a simple command-line based To-Do List application written in Python. It allows users to manage their tasks by adding, marking tasks as completed, displaying the current list of tasks, and removing tasks. The application is interactive and runs in a loop until the user decides to quit.
